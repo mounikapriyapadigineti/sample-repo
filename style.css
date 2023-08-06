@@ -1,0 +1,21 @@
+.my-style {
+  background-color: #765827;
+  color: #235462;
+  border: 3px dotted #000
+
+
+
+}
+
+#my-id {
+  background-color: #243658;
+}
+
+p {
+  background-color: #123423;
+  line-height: 5;
+  letter-spacing: 3px;
+  text-align: center;
+  font-weight: bolder;
+  font-family: monospace;
+}
